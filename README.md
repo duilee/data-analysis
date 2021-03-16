@@ -19,3 +19,10 @@
 ### Section 4 : _최고의 무선청소기(What the best vacuum cleaner?)_
   - 다나와에서 무선청소기 데이터 수집
   - 가성비 좋은 제품, 인기 제품의 시각화
+
+### Section 5 : _Stock Price Prediction on AMZN, GOOG, APPL and more_
+  - Stock price prediction with RNN and sequential stock data
+
+### Section 6 : _Clustering Covid19 Spending Patterns_
+  - Cluster spending patterns using hierarchical clustering and KMeans
+
