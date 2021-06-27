@@ -26,3 +26,4 @@ With libraries including TensorFlow/Keras (Autoencoder, LSTM/ConvLSTM, Multi-Hea
 
 ## Quick Project Results
 
+![model results](./image/model_results.png)
