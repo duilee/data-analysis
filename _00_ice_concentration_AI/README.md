@@ -26,4 +26,14 @@ With libraries including TensorFlow/Keras (Autoencoder, LSTM/ConvLSTM, Multi-Hea
 
 ## Quick Project Results
 
-![model results](./image/model_results.png)
+![model results](./images/model_results.png)
+
+## Model Architectures
+
+**Models using encoded data**  
+LSTM model and Multi-head Attention model
+![model architecture 1](./images/model_architecture_1.png)
+
+**Model using cropped images**  
+ConvLSTM model
+![model architecture 2](./images/model_architecture_2.png)
